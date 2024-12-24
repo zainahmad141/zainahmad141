@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **Irfanjpj19@gmail.com**
+- 📫 How to reach me **zainj480@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,10 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/irfanabdulghaf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfanabdulghaf4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/irfan-abdul-ghaffar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/irfan-abdul-ghaffar/" height="30" width="40" /></a>
-<a href="https://medium.com/@irfandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@irfanjpj19" height="30" width="40" /></a>
-<a href="https://irfanlogo.000webhostapp.com/#/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="#/" height="30" width="40" /></a>
+<a href="https://twitter.com/zainahmad0091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfanabdulghaf4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zain-ahmad-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/zain-ahmad-dev/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
