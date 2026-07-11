@@ -72,8 +72,12 @@ I'm passionate about continuous learning and currently focused on improving my k
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainahmad141&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zainahmad141&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainahmad141&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
